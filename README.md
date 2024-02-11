@@ -39,13 +39,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  https://github.com/Nipun23a/Nipun23a/blob/output/github-contribution-grid-snake.gif
-  
-  <br/><br/><br/>
-</div>
+
 
 <hr/>
 
