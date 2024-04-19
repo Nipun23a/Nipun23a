@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Smart Construction Helme(IOT)**
+ 🔭 I’m currently working on **Smart City Project**
  
  🌱 I’m currently learning **Angular,Flutter**
 
