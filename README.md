@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **Smart Construction Helme(IOT)**
  
- 🌱 I’m currently learning **Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Angular,Flutter**
 
 💬 Ask me about **Arduino,Node.js, React, SQL, MongoDB... or anything [here](https://github.com/Nipun23a/issues)**
 
@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,arduino,html,css,vscode,github,figma,tailwind,git,idea,qt,wordpress" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,py,javascript,mongodb,java,mysql,r,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,arduino,html,css,vscode,github,figma,tailwind,git,idea,qt,wordpress,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,py,javascript,mongodb,java,mysql,r,sqlite,angular,c,cs,dotnet" /><br>
 </div>
 
 <br/>
