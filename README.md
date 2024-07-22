@@ -8,10 +8,6 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Smart City Project**
- 
- 🌱 I’m currently learning **Angular,Flutter**
 
 💬 Ask me about **Arduino,Node.js, React, SQL, MongoDB... or anything [here](https://github.com/Nipun23a/issues)**
 
