@@ -86,23 +86,5 @@
   </a>
 </div>
 
-## 🌐 Visit My Portfolio
-<div align="center">
-  <a href="https://nipunakaweya.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" width="200" />
-  </a>
-</div>
 
-## 📫 Let's Connect
-<div align="center">
-  <a href="mailto:nipuna609@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nipuna-prabashwara-673b82258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nipun23a/issues">
-    <img src="https://img.shields.io/badge/Ask_Me-Anything-1abc9c?style=for-the-badge" />
-  </a>
-</div>
 
