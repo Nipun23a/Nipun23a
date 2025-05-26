@@ -50,13 +50,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun23a&layout=compact&theme=radical&langs_count=8" />
   </div>
   
-
+ <img src="https://streak-stats.demolab.com/?user=Nipun23a&theme=radical" alt="GitHub Streak" />
   
   <!-- Snake Animation -->
   ![Snake animation](https://github.com/Nipun23a/Nipun23a/blob/output/github-contribution-grid-snake.svg)
   
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Nipun23a&theme=onedark&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ## 🏆 Featured Projects
