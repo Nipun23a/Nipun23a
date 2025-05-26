@@ -62,10 +62,10 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Nipun23a/Project1">
+  <a href="https://github.com/Nipun23a/Project1](https://github.com/Nipun23a/Fitness-Mobile-Application.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipun23a&repo=Project1&theme=radical" />
   </a>
-  <a href="https://github.com/Nipun23a/Project2">
+  <a href="https://github.com/Nipun23a/Project2](https://github.com/Nipun23a/Cyber-Seacurity-Scanner)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipun23a&repo=Project2&theme=radical" />
   </a>
 </div>
