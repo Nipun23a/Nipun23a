@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Developer | Blockchain Enthusiast | Cyber Security Specialist</h3>
 
 <div align="center">
-  <a href="https://nipunakaweya.com" target="_blank">
+  <a href="https://nipunakaweya.me" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:nipuna609@gmail.com">
