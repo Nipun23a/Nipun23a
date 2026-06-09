@@ -154,15 +154,27 @@ Pre-init WordPress firewall — intercepts before CMS loads:
 ## `> metrics --github`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nipun23a&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9&ring_color=00ff41" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun23a&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nipun23a&hide_border=true&background=0d1117&ring=00ff41&fire=38BDF8&currStreakLabel=00ff41&sideLabels=38BDF8&dates=c9d1d9&sideNums=00ff41&currStreakNum=ffffff" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nipun23a&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
 </div>
 
 <br/>
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Nipun23a&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun23a&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ## `> activity --log`
 
