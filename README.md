@@ -4,11 +4,11 @@
 <h3 align="center">Full Stack Developer · Cybersecurity Researcher · Blockchain Developer · AI/ML Engineer</h3>
  
 <div align="center">
-  <a href="https://nipunakaweya.me" target="_blank">
+  <a href="https://incandescent-lily-61689f.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:nipuna609@gmail.com">
-    <img src="https://img.shields.io/badge/nipuna609@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:nipunakaweya@gmail.com">
+    <img src="https://img.shields.io/badge/nipunakaweya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nipuna-prabashwara-673b82258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
