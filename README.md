@@ -205,8 +205,8 @@ Pre-init WordPress firewall — intercepts before CMS loads:
   <a href="https://github.com/shieldsync/plugin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shieldsync&repo=plugin&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/Nipun23a/Fitness-Mobile-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipun23a&repo=Fitness-Mobile-Application&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
+  <a href="https://github.com/Nipun23a/Cybersecurity-Offensive-Labs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipun23a&repo=Cybersecurity-Offensive-Labs&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
   </a>
   <a href="https://github.com/Nipun23a/Cyber-Seacurity-Scanner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipun23a&repo=Cyber-Seacurity-Scanner&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
