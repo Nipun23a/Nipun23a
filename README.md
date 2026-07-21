@@ -1,222 +1,99 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a0d,100:0d1117&height=220&section=header&text=NIPUNA%20PRABASHWARA&fontSize=44&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Security%20Researcher%20%7C%20Threat%20Hunter%20%7C%20System%20Builder&descAlignY=55&descColor=38BDF8&descSize=20" />
+# Nipuna Prabashwara
 
-<div align="center">
+**Security Researcher | Full Stack Developer | System Builder**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=%24+whoami+--verbose;%3E+Security+Researcher+%7C+SciSec+2026+%7C+Springer+LNCS;%3E+Builder+of+AIM-IPS+%7C+5-Layer+ML+Intrusion+Prevention;%3E+Founder+of+ShieldSync+%7C+WordPress+WAF+%26+IPS;%3E+BEng+Software+Engineering+%7C+First+Class+Honours;%3E+Targeting+MSc%2FMPhil+Cybersecurity+%7C+EU+%7C+JP+%7C+CA+%7C+AU" />
+---
 
-<br/><br/>
+## About
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-00ff41?style=for-the-badge&labelColor=0d1117)](https://incandescent-lily-61689f.netlify.app/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&labelColor=0d1117)](mailto:nipunakaweya@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/nipuna-prabashwara-673b82258/)
-&nbsp;
-[![AIM-IPS](https://img.shields.io/badge/AIM--IPS-Live-00C853?style=for-the-badge&labelColor=0d1117)](https://aimips.tech)
-&nbsp;
-[![ShieldSync](https://img.shields.io/badge/ShieldSync-Live-7C3AED?style=for-the-badge&labelColor=0d1117)](https://getshieldsync.com)
+Security researcher and software engineer with a Bachelor of Engineering in Software Engineering (First Class Honours) from the University of Westminster and IIT Sri Lanka. Specializing in application security, intrusion detection systems, and full-stack development with expertise spanning cybersecurity, machine learning, and blockchain technologies.
 
-</div>
+### Current Focus
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<br/>
+- **AIM-IPS**: Adaptive Intrusion Prevention System with 5-layer ML pipeline
+- **ShieldSync**: WordPress WAF and intrusion prevention system with autonomous rule generation
+- Active research in zero-day detection, threat analysis, and secure system architecture
 
-## `> whoami`
+---
 
-```text
-┌─ identity ───────────────────────────────────────────────────────────┐
-│                                                                       │
-│  NAME      ›  Nipuna Prabashwara                                      │
-│  ROLE      ›  Security Researcher · Full Stack Developer              │
-│  DEGREE    ›  BEng Software Engineering — First Class Honours        │
-│               University of Westminster / IIT Sri Lanka               │
-│                                                                       │
-│  RESEARCH  ›  SciSec 2026 (Springer LNCS)        ✓  Accepted         │
-│               RAID 2026                           ⟳  Under Review     │
-│               ISAAC 2026 (Springer LNCS)          ⟳  Under Review     │
-│               ADSACAI 2026 · Univ. of Moratuwa   ✓  Published        │
-│                                                                       │
-│  SYSTEMS   ›  AIM-IPS    →  aimips.tech                              │
-│               ShieldSync  →  getshieldsync.com                        │
-│                                                                       │
-│  DOMAINS   ›  Application Security  ·  Intrusion Detection           │
-│               Zero-Day Research  ·  Blockchain  ·  Cross-Platform    │
-│                                                                       │
-│                       │
-│                                                                     │
-└───────────────────────────────────────────────────────────────────────┘
-```
+## Technical Stack
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<br/>
+**Backend:** Laravel, Django, Flask, Spring, Node.js
 
-## `> systems --active`
+**Frontend:** Next.js, React, Tailwind CSS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Mobile:** React Native, Flutter
 
-### 🔐 AIM-IPS
-**Adaptive Intrusion Prevention System**
+**Databases:** PostgreSQL, MongoDB, MySQL, Firebase, Redis
 
-> *Accepted · SciSec 2026 · Springer LNCS · [aimips.tech](https://aimips.tech)*
+**Security & Tools:** Kali Linux, Burp Suite, OWASP, Wireshark
 
-Production-deployed middleware IPS:
+**ML & Research:** Python, TensorFlow, PyTorch, scikit-learn
 
-- **5-layer ML pipeline** — CNN anomaly gate + LightGBM classifier + cross-pipeline temporal correlator
-- **Zero-day detection** — Autoencoder, VAE, One-Class SVM, Isolation Forest ensemble
-- **Autonomous rule engine** — generates MITRE ATT&CK-mapped WAF rules in real time
-- **Graduated response** — 0–100 risk scoring, threat actions under **10ms**
+**Blockchain:** Solidity, Ethereum, Web3.js
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🛡 ShieldSync
-**WordPress WAF & Intrusion Prevention System**
+## Featured Systems
 
-> *Open-source · [getshieldsync.com](https://getshieldsync.com) · [github.com/shieldsync/plugin](https://github.com/shieldsync/plugin)*
+### AIM-IPS – Adaptive Intrusion Prevention System
+**Production-deployed middleware IPS** | [Live](https://aimips.tech)
 
-Pre-init WordPress firewall — intercepts before CMS loads:
+- 5-layer machine learning pipeline (CNN, LightGBM, temporal correlation)
+- Zero-day detection using autoencoder, VAE, One-Class SVM ensembles
+- Autonomous MITRE ATT&CK-mapped WAF rule generation
+- Sub-10ms threat response with 0-100 risk scoring
 
-- Defends against **SQLi, XSS, CSRF, brute force, bot traffic, file upload**
-- Pro backend: **Laravel + PostgreSQL + Redis + ML anomaly detection**
-- **Crowdsourced global IP reputation** network
-- Zero-dependency execution before WordPress initialises
+### ShieldSync – WordPress WAF & IPS
+**Open-source security plugin** | [Website](https://getshieldsync.com) | [Repository](https://github.com/shieldsync/plugin)
 
-</td>
-</tr>
-</table>
+- Pre-initialization firewall (blocks threats before WordPress loads)
+- Protection against SQLi, XSS, CSRF, brute force, bot traffic, malicious uploads
+- Laravel + PostgreSQL backend with ML-powered anomaly detection
+- Crowdsourced global IP reputation network
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<br/>
+---
 
-## `> stack --scan`
+## Projects by Category
 
-<div align="center">
+### Cybersecurity Projects
 
-**`[ BACKEND ]`**
+| Project | Description |
+|---------|-------------|
+| [Cybersecurity-Offensive-Labs](https://github.com/Nipun23a/Cybersecurity-Offensive-Labs) | Offensive security lab exercises and penetration testing methodologies |
+| [AIM-IPS](https://github.com/Nipun23a/AIM-IPS) | Adaptive machine learning-based intrusion prevention system |
+| [Cyber-Security-Scanner](https://github.com/Nipun23a/Cyber-Seacurity-Scanner) | Automated security scanning and vulnerability detection tool |
+| [ShieldSync Plugin](https://github.com/shieldsync/plugin) | WordPress WAF and intrusion prevention system |
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Full Stack & AI/ML Projects
 
-**`[ FRONTEND ]`**
+| Project | Description |
+|---------|-------------|
+| [Auto-Moly](https://github.com/Nipun23a/Auto-Moly) | Full-stack automation and machine learning application |
+| [Road-To-Heaven](https://github.com/Nipun23a/Road-To-Heaven) | Full-stack web application with backend service architecture |
+| [Advanced-Server-Side-Coursework-1](https://github.com/Nipun23a/Advanced-Server-Side-Coursework-1) | Enterprise-level server-side architecture and design patterns |
+| [Horse-Winner-Prediction](https://github.com/Nipun23a/horse-winner-prediction) | Machine learning prediction model using supervised learning |
+| [Disease-Prediction](https://github.com/Nipun23a/Disease-Prediction) | ML-based health prediction system with data analysis |
+| [Aid-Nexus](https://github.com/Nipun23a/Aid-Nexus) | Full-stack humanitarian aid coordination platform |
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Mobile Application Projects
 
-**`[ MOBILE ]`**
+| Project | Description |
+|---------|-------------|
+| [Hela-Craft](https://github.com/Nipun23a/hela-craft) | Cross-platform mobile e-commerce application |
+| [Vintage-Lanka](https://github.com/Nipun23a/vintage-lanka) | Mobile marketplace for vintage goods with integrated payments |
+| [Fitness-Mobile-Application](https://github.com/Nipun23a/Fitness-Mobile-Application) | Comprehensive fitness tracking and workout management app |
+| [Mood-Lift-Mobile-Application](https://github.com/Nipun23a/Mood-Lift-Mobile-Application) | Mental health and wellness mobile application |
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+---
 
-**`[ DATA ]`**
+## Connect
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- **Portfolio**: [incandescent-lily-61689f.netlify.app](https://incandescent-lily-61689f.netlify.app/)
+- **Email**: [nipunakaweya@gmail.com](mailto:nipunakaweya@gmail.com)
+- **LinkedIn**: [Nipuna Prabashwara](https://www.linkedin.com/in/nipuna-prabashwara-673b82258/)
+- **GitHub**: [Nipun23a](https://github.com/Nipun23a)
 
-**`[ SECURITY ]`**
+---
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**`[ BLOCKCHAIN ]`**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-
-**`[ ML / RESEARCH ]`**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<br/>
-
-## `> metrics --github`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nipun23a&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Nipun23a&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun23a&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-</td>
-</tr>
-</table>
-
-</div>
-
-## `> activity --log`
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nipun23a&theme=tokyo-night&bg_color=0d1117&color=00ff41&line=00ff41&point=38BDF8&area=true&hide_border=true" />
-</div>
-
-<br/>
-
-<details>
-<summary><b><code>> contribution --3d  [expand]</code></b></summary>
-<br/>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" />
-</div>
-</details>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<br/>
-
-## `> projects --pinned`
-
-<div align="center">
-  <a href="https://github.com/Nipun23a/AIM-IPS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipun23a&repo=AIM-IPS&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/shieldsync/plugin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shieldsync&repo=plugin&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Nipun23a/Cybersecurity-Offensive-Labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipun23a&repo=Cybersecurity-Offensive-Labs&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Nipun23a/Cyber-Seacurity-Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipun23a&repo=Cyber-Seacurity-Scanner&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38BDF8&text_color=c9d1d9" />
-  </a>
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<br/>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a0d,100:0d1117&height=120&section=footer&animation=fadeIn" />
-
-
+**Available for opportunities in:** MSc/MPhil Cybersecurity programs (EU, JP, CA, AU) | Security Research | Full Stack Development | AI/ML Engineering
