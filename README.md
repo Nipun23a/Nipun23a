@@ -43,9 +43,8 @@
 │  DOMAINS   ›  Application Security  ·  Intrusion Detection           │
 │               Zero-Day Research  ·  Blockchain  ·  Cross-Platform    │
 │                                                                       │
-│  TARGET    ›  MSc / MPhil in Cybersecurity                           │
-│               Europe · Japan · Canada · Australia                     │
-│                                                                       │
+│                       │
+│                                                                     │
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
