@@ -216,20 +216,6 @@ Pre-init WordPress firewall — intercepts before CMS loads:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <br/>
 
-## `> papers --verified`
-
-<div align="center">
-
-| `PAPER` | `VENUE` | `STATUS` |
-|:---|:---|:---:|
-| AIM-IPS: Adaptive Middleware Intrusion Prevention System | **SciSec 2026 · Springer LNCS** | `✓ ACCEPTED` |
-| AIM-IPS (Extended) — Advanced Threat Correlation | **RAID 2026** | `⟳ REVIEW` |
-| AIM-IPS (Extended) — Zero-Day Detection Framework | **ISAAC 2026 · Springer LNCS** | `⟳ REVIEW` |
-| AIM-IPS — ML-Based IPS Architecture | **ADSACAI 2026 · Univ. of Moratuwa** | `✓ PUBLISHED` |
-
-</div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a0d,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
