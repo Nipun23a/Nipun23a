@@ -69,7 +69,7 @@ Security researcher and software engineer with a Bachelor of Engineering in Soft
 
 | Project | Description |
 |---------|-------------|
-| [Print-Bridge] (https://github.com/Nipun23a/PrintBridge) | Service tool for the bypass the browser silen printing issue |
+| [Print-Bridge](https://github.com/Nipun23a/PrintBridge) | Service tool for the bypass the browser silen printing issue |
 | [Auto-Moly](https://github.com/Nipun23a/Auto-Moly) | Full-stack automation and machine learning application |
 | [Road-To-Heaven](https://github.com/Nipun23a/Road-To-Heaven) | Full-stack web application with backend service architecture |
 | [Advanced-Server-Side-Coursework-1](https://github.com/Nipun23a/Advanced-Server-Side-Coursework-1) | Enterprise-level server-side architecture and design patterns |
